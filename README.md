@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro Augusto Borges
+### Hi there, I'm Pedro Augusto
 
 I am a student of Msc. in Urban Planning. I use R to analyze and research spatial data related to urban planning, transport engineering, and road safety. 
 
