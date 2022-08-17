@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro Augusto
 
-I am a student of Msc. in Urban Planning. I use R to analyze and research spatial data related to urban planning, transport engineering, and road safety. 
+I am a MSc. in Urban Planning. I use R to analyze and research spatial data related to urban planning, transport engineering, and road safety. 
 
 ## Current skills
 
